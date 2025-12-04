@@ -15,3 +15,6 @@ print(f"Prediction: {predictions[0]}")
 # Get prediction probabilities (if needed)
 probabilities = model.predict_proba(X_new)
 print(f"Prediction probabilities: {probabilities[0]}")
+
+# Example: Prepare input data for probability prediction
+
